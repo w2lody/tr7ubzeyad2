@@ -9,4 +9,4 @@ setTimeout(() => mohamed.send(`**~#~~Welcome~~ To, Urgent.💝 🍃**`), 4000)
 }
 });
 
-client.login(process.env.BOT_TOKEN);
+bot.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
